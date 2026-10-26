@@ -1,6 +1,3 @@
- Hi there 👋
-
-- 🔭 I’m currently working for Quovai
-- 🌱 I’m currently learning Elixir/Phoenix LiveView
-- 📫 How to reach me: t.me/revdep
+Rails pays the bills, Linux keeps me sane, system management keeps me awake.
+Elixir and Rust are for fun; Fogu was my first Rust project.
 
